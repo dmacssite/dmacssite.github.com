@@ -209,8 +209,8 @@ ul li {
 }
 
 ol li {
-  list-style: lower-alpha inside;
-  padding-left: 20px;
+  list-style: lower-roman inside;
+  padding-left: 30px;
 }
 
 dl dt {
